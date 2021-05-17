@@ -1,5 +1,5 @@
-# GameLabEduc
-Aplicativo de jogo let's jump
+//# GameLabEduc
+//Aplicativo de jogo let's jump
 
 #include <iostream>
 #include <cmath>
